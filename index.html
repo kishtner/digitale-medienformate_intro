@@ -17,9 +17,15 @@
             <div class="wrapper">
                 <p>Hallo Welt</p>
                 <img src="image.png" alt="">
-                <p class="red-paragraph">Hello again</p>
+                <p id="the-red-p" class="red-paragraph">Hello again</p>
             </div>
         </section>
     </main>
+    <script>
+        const redParagraph = document.querySelector("#the-red-p");
+        redParagraph.addEventListener("click", function () {
+            redParagraph.classList.toggle("blue-paragraph")
+        })
+    </script>
 </body>
 </html>

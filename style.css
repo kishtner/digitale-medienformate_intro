@@ -22,7 +22,15 @@ header h1 {
     margin: 0 auto;
 }
 
+#the-red-p {
+    cursor: pointer;
+}
+
 .red-paragraph {
     color: orangered;
+}
+
+.blue-paragraph {
+    color: dodgerblue;
 }
 
