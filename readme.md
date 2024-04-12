@@ -14,3 +14,5 @@ die Unterschiede von der vorherigen zur nächsten Aufgabe anschauen.
 + [Wie zentriert man das Layout mit einer Kopfzeile über die ganze Breite?](https://github.com/kishtner/digitale-medienformate_intro/compare/feature/external-styles...feature/centered-layout)
 + [Wie kann man nur den roten Text mit einem Klick blau machen?](https://github.com/kishtner/digitale-medienformate_intro/compare/feature/centered-layout...feature/toggle-paragraph-color)
 + [Wie bindet man JS in einer separaten Datei ein?](https://github.com/kishtner/digitale-medienformate_intro/compare/feature/toggle-paragraph-color...feature/external-script)
+
+Das ist eine Änderung.
